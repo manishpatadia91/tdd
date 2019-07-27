@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CalculatorSpec" project="kata" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="kata.com.CalculatorSpec" time="0.001">
+    <testcase name="test to add string input" classname="kata.com.CalculatorSpec" time="0.001">
+      <error>groovy.lang.MissingMethodException: No signature of method: kata.com.Calculator.add() is applicable for argument types: (java.lang.String) values: []
+Possible solutions: any(), any(groovy.lang.Closure), wait(), find(), wait(long), is(java.lang.Object)&#13;
+	at kata.com.CalculatorSpec.test to add string input(CalculatorSpec.groovy:12)&#13;
+&#13;
+</error>
+    </testcase>
+  </testsuite>
+</testrun>

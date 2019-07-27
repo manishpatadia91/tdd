@@ -1,0 +1,9 @@
+package kata.com
+
+import spock.lang.Specification
+
+class Calculator extends Specification{
+	def "test"() {
+		expect : 1==1
+	}
+}

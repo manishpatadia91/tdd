@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.jdt.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link0</name>
+			<type>2</type>
+			<location>C:/Users/manishp/.groovy/greclipse/global_dsld_support</location>
+		</link>
+		<link>
+			<name>.link1</name>
+			<type>2</type>
+			<location>D:/eclipse-jee-neon-3-win32-x86_64/eclipse/plugins/org.codehaus.groovy_2.4.13.xx-201801051705-e46-RELEASE/plugin_dsld_support</location>
+		</link>
+	</linkedResources>
+</projectDescription>

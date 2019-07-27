@@ -1,0 +1,8 @@
+package kata.com
+
+import spock.lang.Specification
+
+class CalculatorSpec extends Specification{
+	def Calculator calc = new Calculator();
+	
+}

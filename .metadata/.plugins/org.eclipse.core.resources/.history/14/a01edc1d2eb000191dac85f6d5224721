@@ -1,0 +1,7 @@
+package kata.com
+
+import spock.lang.Specification
+
+class Calculator extends Specification{
+	
+}
